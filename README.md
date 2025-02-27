@@ -74,8 +74,6 @@ Users's pages
 
 ![Login](screenshots/login.png)
 
-![pic1](screenshots/login.png)
-
 ![pic2](screenshots/aboutus.png)
 
 ![pic3](screenshots/dashboard.png)
