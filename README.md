@@ -94,7 +94,6 @@ The AINSOFT Savings and Expense Management website is designed to be easy to use
 
 This project aims to reduce paperwork and bring relative ease to managing large data in terms of expenses and income. It allows users to track old and new expenses, keep a list of all types of expenses and income information, and receive feedback from users. The website is part of a future where everything is easily accessible on the web.
 
-For more information, refer to the [About page](#) that discusses users and project details.
 
 ## Author
 
